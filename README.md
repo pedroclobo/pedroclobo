@@ -1,9 +1,6 @@
-<div align="center">
+### Hi there 👋
 
-# Hi there 👋
+My name is Pedro Lobo.
 
-**I'm Pedro Lobo, currently a second-year student taking Computer Science and Engineering at Instituto Superior Técnico, Portugal.**
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroclobo&layout=compact&theme=dark&langs_count=10)
+- 🎓 Studying Computer Science (LEIC) at Instituto Superior Técnico
+- 📜 Check out my [CV](https://drive.google.com/file/d/1XeTPLQdzku96sed57abtTRKYUUnS7OVr/view?usp=share_link)
