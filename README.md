@@ -2,5 +2,5 @@
 
 My name is Pedro Lobo.
 
-- 🎓 Studying Computer Science (LEIC) at Instituto Superior Técnico
-- 📜 Check out my [CV](https://drive.google.com/file/d/1XeTPLQdzku96sed57abtTRKYUUnS7OVr/view?usp=share_link)
+- 🎓 Studying Computer Science and Engineering at Instituto Superior Técnico, Lisbon, Portugal
+- 📜 Check out my [CV](https://github.com/pedroclobo/cv/releases/download/v1.0.0/cv.pdf)
